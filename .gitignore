@@ -1,0 +1,3 @@
+*.*_ 
+#Ignora todo -subcarpetar y archivos- lo que esta en la carpeta target.
+/target/**/*.*  
